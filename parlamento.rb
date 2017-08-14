@@ -1,7 +1,5 @@
 #!/usr/bin/env ruby
 
-require 'rubygems'
-
 class GrupoParlamentar
   attr_reader :nome, :sigla, :email
   def initialize(nome, sigla, email)

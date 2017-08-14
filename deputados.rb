@@ -1,10 +1,5 @@
 #!/usr/bin/env ruby
 
-require 'rubygems'
-require 'nokogiri'
-require 'open-uri'
-require 'ruby-progressbar'
-require 'yaml/store'
 require './parlamento.rb'
 
 puts "Obtendo deputados..."
