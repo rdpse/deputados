@@ -1,3 +1,4 @@
 *.s[aw][a-z]
 wip/
 deputados.yml
+vendor/
